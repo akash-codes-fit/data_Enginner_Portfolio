@@ -23,7 +23,7 @@ const greeting = {
   username: "Akash Kr Gupta",
   title: "Hi all, I'm Akash",
   subTitle: emoji(
-    "A passionate certified Data Engineer 🚀 experienced in designing and building scalable data pipelines and analytics platforms using Python, SQL, Spark, and cloud technologies like Azure & AWS — with a touch of modern data engineering magic."
+    "A passionate certified Data Engineer 🚀 experienced in designing and building scalable data pipelines and analytics platforms using cloud technologies with a touch of modern data engineering magic."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
